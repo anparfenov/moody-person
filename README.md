@@ -1,4 +1,4 @@
-![hero-image](https://andreyparfenov.com/static/github-readme-image.png)
+![hero-image](https://andreyparfenov.com/static/github-readme-image.svg)
 
 Hello, my name is Andrey and I'm software engineer from Russia.
 

@@ -1,10 +1,6 @@
-![hero-image](https://andreyparfenov.com/static/github-readme-image.svg)
+Hello :wave:, my name is Andrey and I'm software engineer from Russia.
 
-Hello, my name is Andrey and I'm software engineer from Russia.
-
-I like building user interfaces using html/css and js.
-
-At work i'm using vuejs. And also i can write in svelte, react.
+I like building user interfaces using html/css and js/ts.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rawkangaroo)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:asleeppiano@outlook.com)
